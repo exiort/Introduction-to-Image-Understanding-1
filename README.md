@@ -21,3 +21,8 @@ Includes formulas for converting between RGB/RGBA and grayscale, taking care of 
 * Compile and build the project.
 * Use the provided functions in the ceng391::Image class to manipulate and convert images.
 
+---
+
+# 📜 License
+
+This project is licensed under the MIT License. Copyright (c) 2026 Buğrahan İmal. You are free to use, copy, modify, merge, publish, and distribute this software as per the license conditions.
